@@ -12,6 +12,7 @@ void setupWindowBackground();
 int main()
 {
 
+	// Comment
 	int backgroundId = 1;
 
 	sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "SFML_Base");
